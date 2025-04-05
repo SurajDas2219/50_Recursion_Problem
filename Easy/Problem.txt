@@ -1,0 +1,17 @@
+Easy Level (1-15):
+
+Factorial of a Number✅ :Write a recursive function to calculate the factorial of a given number.
+Fibonacci Sequence✅:Find the Nth Fibonacci number using recursion.
+Sum of N Natural Numbers✅:Recursive function to find the sum of first N natural numbers.
+Power of a Number✅:Compute x^n using recursion.
+Palindrome Check✅:Check if a string is a palindrome using recursion.
+Count Digits ✅:Write a recursive function to count the number of digits in an integer.
+Greatest Common Divisor (GCD)✅:Find the GCD of two numbers using recursion (Euclidean algorithm).
+Reverse a String✅:Reverse a given string using recursion.
+Sum of Digits✅:Recursive function to find the sum of digits of an integer.
+Binary Search:Implement binary search using recursion.
+Print All Subsequences of a String:Print all subsequences of a given string using recursion.
+Tower of Hanoi:Solve the Tower of Hanoi problem for N disks.
+Print Numbers from 1 to N:Recursive function to print numbers from 1 to N.
+Find Maximum in an Array:Write a recursive function to find the maximum element in an array.
+Decimal to Binary Conversion:Convert a decimal number to its binary representation using recursion.
