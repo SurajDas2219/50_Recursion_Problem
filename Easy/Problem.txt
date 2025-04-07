@@ -9,7 +9,7 @@ Count Digits ✅:Write a recursive function to count the number of digits in an 
 Greatest Common Divisor (GCD)✅:Find the GCD of two numbers using recursion (Euclidean algorithm).
 Reverse a String✅:Reverse a given string using recursion.
 Sum of Digits✅:Recursive function to find the sum of digits of an integer.
-Binary Search:Implement binary search using recursion.
+Binary Search✅:Implement binary search using recursion.
 Print All Subsequences of a String:Print all subsequences of a given string using recursion.
 Tower of Hanoi:Solve the Tower of Hanoi problem for N disks.
 Print Numbers from 1 to N:Recursive function to print numbers from 1 to N.
